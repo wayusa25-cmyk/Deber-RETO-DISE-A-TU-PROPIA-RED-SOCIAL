@@ -56,11 +56,11 @@ Amistades (cada pareja es una sola arista, sin dirección):
 
 | Arista | Por qué existe en la aplicación |
 | --- | --- |
-| {U01, U02} | Mateo y Lucía hacen laboratorio juntos |
-| {U02, U03} | Lucía y Sofía también |
-| {U01, U03} | Sofía y Mateo cierran el círculo |
-| {U01, U04} | Andrés resuelve dudas con Mateo |
-| {U01, U05} | Valentina repasa con Mateo |
+| U01, U02 | Mateo y Lucía hacen laboratorio juntos |
+| U02, U03 | Lucía y Sofía también |
+| U01, U03 | Sofía y Mateo cierran el círculo |
+| U01, U04 | Andrés resuelve dudas con Mateo |
+| U01, U05 | Valentina repasa con Mateo |
 
 Grados: 4 + 2 + 2 + 1 + 1 + 0 = 10. El doble de 5 aristas también es 10.
 
